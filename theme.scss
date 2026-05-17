@@ -1,0 +1,299 @@
+/*-- scss:defaults --*/
+
+// === Typography ===
+$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !default;
+$font-family-serif: 'Newsreader', Georgia, 'Times New Roman', serif !default;
+$font-family-monospace: 'JetBrains Mono', 'SF Mono', Menlo, monospace !default;
+
+// Body uses serif (academic gravitas), UI/headings use sans
+$font-family-base: $font-family-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+
+$font-size-base: 1.0625rem !default;
+$line-height-base: 1.7 !default;
+
+$h1-font-size: 2.25rem !default;
+$h2-font-size: 1.55rem !default;
+$h3-font-size: 1.2rem !default;
+$h4-font-size: 1.05rem !default;
+
+$headings-font-weight: 600 !default;
+$headings-line-height: 1.3 !default;
+
+// === Colors ===
+// Warm off-white background to soften the read
+$body-bg: #fafaf7 !default;
+$body-color: #1a1a1a !default;
+
+// Gold accent extracted from logo, darkened for AA contrast on cream
+$primary: #a8821f !default;        // links, accents
+$gold-bright: #d4a72c !default;    // brand badge color (used in logo bg context)
+$gold-soft: #f4e9c4 !default;      // very pale gold for tinted backgrounds
+
+$link-color: $primary !default;
+$link-decoration: none !default;
+$link-hover-color: #7a5f15 !default;
+
+$border-color: rgba(0, 0, 0, 0.08) !default;
+
+// === Code ===
+$code-color: #7a5f15 !default;
+$code-bg: rgba(212, 167, 44, 0.08) !default;
+
+/*-- scss:rules --*/
+
+// Webfonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+body {
+  font-feature-settings: 'kern' 1, 'liga' 1, 'onum' 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+// Narrower reading column
+main.content,
+.page-columns > .content {
+  max-width: 720px;
+}
+
+// Headings: distinct sans-serif treatment
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4 {
+  font-family: $font-family-sans-serif;
+  letter-spacing: -0.011em;
+  margin-top: 2.25rem;
+  margin-bottom: 0.85rem;
+}
+
+h1.title {
+  font-weight: 700;
+  letter-spacing: -0.022em;
+  font-size: 2.4rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.15;
+}
+
+.subtitle, p.subtitle {
+  font-family: $font-family-sans-serif;
+  font-weight: 400;
+  color: #555;
+  font-size: 1.05rem;
+  margin-bottom: 2.5rem;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+// Section spacing
+section.level2,
+h2 {
+  margin-top: 3.25rem;
+}
+
+// === Links ===
+a {
+  color: $link-color;
+  border-bottom: 1px solid rgba(168, 130, 31, 0.28);
+  transition: border-color 0.15s, color 0.15s;
+}
+
+a:hover {
+  color: $link-hover-color;
+  border-bottom-color: $link-hover-color;
+}
+
+// Navbar links don't get underline
+.navbar a,
+.nav-footer a,
+.toc-active a,
+nav#TOC a,
+h1 a, h2 a, h3 a, h4 a {
+  border-bottom: none;
+}
+
+// === Navbar ===
+.navbar {
+  background-color: $body-bg !important;
+  border-bottom: 1px solid $border-color;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.navbar-brand img {
+  height: 32px;
+  width: auto;
+  border-radius: 4px;
+}
+
+.navbar-title {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: -0.01em;
+  color: $body-color !important;
+}
+
+.navbar-nav .nav-link {
+  font-family: $font-family-sans-serif;
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: #444 !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: $primary !important;
+}
+
+// === Authorship badges ===
+// The [First author] / [Senior author] tags
+small {
+  font-family: $font-family-sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: $primary;
+  background-color: rgba(212, 167, 44, 0.13);
+  padding: 0.18rem 0.55rem;
+  border-radius: 3px;
+  margin-left: 0.35rem;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+// Strip the bracket characters in the rendered output, just keep the label
+small::before { content: ""; }
+
+// === Inline code ===
+code:not(pre code) {
+  background-color: $code-bg;
+  color: $code-color;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+  font-weight: 500;
+  border: none;
+}
+
+// === Lists ===
+ol, ul {
+  padding-left: 1.4rem;
+}
+
+ol li, ul li {
+  margin-bottom: 0.4rem;
+  padding-left: 0.2rem;
+}
+
+// Publication list: extra breathing room
+section h2 + ol > li,
+section h2 + p + ol > li {
+  margin-bottom: 1.4rem;
+  line-height: 1.55;
+}
+
+// === Hero section on home page ===
+.hero-section {
+  padding: 3.5rem 0 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid $border-color;
+  text-align: center;
+}
+
+.hero-section .hero-logo {
+  width: 280px;
+  max-width: 60%;
+  height: auto;
+  margin: 0 auto 2rem;
+  display: block;
+  border-radius: 8px;
+}
+
+.hero-section h1 {
+  font-family: $font-family-sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.022em;
+  margin: 0 0 0.5rem;
+  line-height: 1.1;
+}
+
+.hero-section .hero-subtitle {
+  font-family: $font-family-sans-serif;
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0 auto;
+  max-width: 540px;
+  line-height: 1.5;
+}
+
+// === Page footer ===
+.nav-footer {
+  margin-top: 5rem;
+  padding: 2rem 0;
+  border-top: 1px solid $border-color;
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+  color: #777;
+  background-color: $body-bg;
+}
+
+.nav-footer a {
+  color: #777;
+  border-bottom: none;
+}
+
+.nav-footer a:hover {
+  color: $primary;
+}
+
+// === TOC ===
+nav#TOC,
+.sidebar nav,
+#quarto-margin-sidebar {
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+}
+
+#quarto-margin-sidebar a {
+  border-bottom: none;
+  color: #666;
+}
+
+#quarto-margin-sidebar a:hover,
+#quarto-margin-sidebar .active {
+  color: $primary;
+}
+
+// === Misc polish ===
+hr {
+  border-top: 1px solid $border-color;
+  margin: 2.5rem 0;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+em, i {
+  font-style: italic;
+}
+
+// Hide TOC on landing page (cleaner hero)
+body.quarto-light .quarto-title-block + nav#TOC {
+  // standard rule, but we hide via per-page config
+}

@@ -5,10 +5,15 @@ project:
     - CNAME
 
 website:
-  title: "Shih-Feng (Fredric) Huang, MD"
+  title: "Shih-Feng Huang, MD"
   description: "Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes"
   site-url: https://research.shihfenghuang.com
+  favicon: assets/favicon.png
   navbar:
+    logo: assets/logo-nav.png
+    logo-alt: "Colon & Code_ brand mark"
+    title: false
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -21,16 +26,25 @@ website:
     right:
       - icon: github
         href: https://github.com/odafeng
+        aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/in/fredrichuang/
+        aria-label: LinkedIn
   page-footer:
     left: "© 2026 Shih-Feng Huang, MD"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - theme.scss
     toc: true
-    fontsize: 1.0em
-    linkcolor: "#1a5490"
+    toc-depth: 2
+    toc-location: right
+    fontsize: 1.0625rem
+    grid:
+      sidebar-width: 0px
+      body-width: 760px
+      margin-width: 240px
+      gutter-width: 1.5rem

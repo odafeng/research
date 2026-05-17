@@ -1,7 +1,20 @@
 ---
-title: "Shih-Feng (Fredric) Huang, MD"
-subtitle: "Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes"
+title: ""
+pagetitle: "Shih-Feng (Fredric) Huang, MD"
+toc: false
 ---
+
+::: {.hero-section}
+
+![](assets/logo-hero.png){.hero-logo fig-alt="Colon & Code_ brand mark"}
+
+# Shih-Feng (Fredric) Huang, MD
+
+::: {.hero-subtitle}
+Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes.
+:::
+
+:::
 
 Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Building a unified framework that links preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.
 
@@ -9,9 +22,9 @@ Concurrently a PhD candidate in Computer Science (Medical Informatics track) at 
 
 ## Selected recent work
 
-   - A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *Int J CARS*. 2026. [doi](https://doi.org/10.1007/s11548-026-03606-2)
-   - Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. *Int J Colorectal Dis*. 2026. [doi](https://doi.org/10.1007/s00384-025-05078-3)
-   - Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. *J Robotic Surg*. 2026. [doi](https://doi.org/10.1007/s11701-025-03088-5)
+   - A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *International Journal of Computer Assisted Radiology and Surgery*. 2026. [doi](https://doi.org/10.1007/s11548-026-03606-2)
+   - Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. *International Journal of Colorectal Disease*. 2026. [doi](https://doi.org/10.1007/s00384-025-05078-3)
+   - Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. *Journal of Robotic Surgery*. 2026. [doi](https://doi.org/10.1007/s11701-025-03088-5)
 
 See [Research](research.qmd) for the full framework, or [Publications](publications.qmd) for the complete list.
 
