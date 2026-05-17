@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+Three connected axes:
+
+1. **Planning** — CT pelvimetry, anatomical risk stratification
+2. **Proficiency** — RA-CUSUM, machine learning learning curves
+3. **Outcomes** — Functional, oncologic, patient-reported

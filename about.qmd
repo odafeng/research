@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon. Da Vinci certified. Surgical data scientist working at the intersection of robotic surgery, Python, and deep learning.

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Shih-Feng (Fredric) Huang, MD"
+  description: "Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes"
+  site-url: https://research.shihfenghuang.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/odafeng
+      - icon: linkedin
+        href: https://www.linkedin.com/in/fredrichuang/
+  page-footer:
+    left: "© 2026 Shih-Feng Huang, MD"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fontsize: 1.0em
+    linkcolor: "#1a5490"

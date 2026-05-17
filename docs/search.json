@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shih-Feng (Fredric) Huang, MD",
+    "section": "",
+    "text": "Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Building a unified framework that links preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.\n→ Coming soon: flagship white paper, June 2026."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Full list maintained at ORCID 0000-0002-8037-4074.\n(BibTeX-driven list coming soon.)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Three connected axes:\n\nPlanning — CT pelvimetry, anatomical risk stratification\nProficiency — RA-CUSUM, machine learning learning curves\nOutcomes — Functional, oncologic, patient-reported"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon. Da Vinci certified. Surgical data scientist working at the intersection of robotic surgery, Python, and deep learning."
+  }
+]

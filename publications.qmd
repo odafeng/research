@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+Full list maintained at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
+
+(BibTeX-driven list coming soon.)
