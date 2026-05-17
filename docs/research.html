@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Three connected axes of Robotic Colorectal Surgical Intelligence (RCSI).">
 
 <title>Research – Shih-Feng (Fredric) Huang, MD</title>
 <style>
@@ -127,8 +128,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#planning" id="toc-planning" class="nav-link active" data-scroll-target="#planning">1. Planning</a></li>
+  <li><a href="#proficiency" id="toc-proficiency" class="nav-link" data-scroll-target="#proficiency">2. Proficiency</a></li>
+  <li><a href="#technique-outcomes" id="toc-technique-outcomes" class="nav-link" data-scroll-target="#technique-outcomes">3. Technique &amp; Outcomes</a></li>
+  <li><a href="#tooling" id="toc-tooling" class="nav-link" data-scroll-target="#tooling">Tooling</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -138,6 +148,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Research</h1>
 </div>
 
+<div>
+  <div class="description">
+    Three connected axes of Robotic Colorectal Surgical Intelligence (RCSI).
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -152,14 +167,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Three connected axes:</p>
-<ol type="1">
-<li><strong>Planning</strong> — CT pelvimetry, anatomical risk stratification</li>
-<li><strong>Proficiency</strong> — RA-CUSUM, machine learning learning curves</li>
-<li><strong>Outcomes</strong> — Functional, oncologic, patient-reported</li>
-</ol>
+<p>A unified framework linking what we plan before surgery, what we do during surgery, and what happens to the patient afterward. Built around robotic total mesorectal excision (TME) and left-sided colorectal resection.</p>
+<section id="planning" class="level2">
+<h2 class="anchored" data-anchor-id="planning">1. Planning</h2>
+<p>Anatomical risk stratification from preoperative imaging. Automated CT-based pelvimetry quantifies the mid-pelvic surgical workspace before the patient enters the operating room.</p>
+<ul>
+<li>A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. <em>Int J CARS</em>. 2026. <a href="https://doi.org/10.1007/s11548-026-03606-2">doi</a></li>
+</ul>
+<p>Open-source: <a href="https://pypi.org/project/ctpelvimetry/"><code>ctpelvimetry</code></a> · <a href="https://github.com/odafeng/Auto_ISD_Pelvimetry">GitHub</a> · <a href="https://auto-isd-demo.vercel.app">Demo</a></p>
+</section>
+<section id="proficiency" class="level2">
+<h2 class="anchored" data-anchor-id="proficiency">2. Proficiency</h2>
+<p>Quantitative assessment of robotic technical skill. Video-based risk-adjusted CUSUM and machine learning models replace conventional case-count thresholds for learning curve evaluation.</p>
+<ul>
+<li>Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. <em>Int J Colorectal Dis</em>. 2026. <a href="https://doi.org/10.1007/s00384-025-05078-3">doi</a></li>
+<li>Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. <em>J Robotic Surg</em>. 2026. <a href="https://doi.org/10.1007/s11701-025-03088-5">doi</a></li>
+<li>Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. <em>J Robotic Surg</em>. 2025. <a href="https://doi.org/10.1007/s11701-025-02609-6">doi</a></li>
+</ul>
+</section>
+<section id="technique-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="technique-outcomes">3. Technique &amp; Outcomes</h2>
+<p>Novel intracorporeal anastomotic techniques and their oncologic, functional, and short-term outcomes. The Robotic intracorporeal Single-Stapled Anastomosis (RiSSA) technique reduces stapler firings and bowel manipulation.</p>
+<ul>
+<li>The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. <em>Ann Coloproctol</em>. 2025. <a href="https://doi.org/10.3393/ac.2025.00486.0069">doi</a></li>
+<li>Robotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. <em>Colorectal Disease</em>. 2024. <a href="https://doi.org/10.1111/codi.17211">doi</a></li>
+<li>Redo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. <em>Diseases of the Colon &amp; Rectum</em>. 2025. <a href="https://doi.org/10.1097/dcr.0000000000003646">doi</a></li>
+</ul>
+</section>
+<section id="tooling" class="level2">
+<h2 class="anchored" data-anchor-id="tooling">Tooling</h2>
+<p>All quantitative work is reproducible. Pipelines run in Python (PyTorch, scikit-learn) on GCP (NVIDIA L4 GPU). Source available on <a href="https://github.com/odafeng">GitHub</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -4,27 +4,118 @@
     "href": "index.html",
     "title": "Shih-Feng (Fredric) Huang, MD",
     "section": "",
-    "text": "Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Building a unified framework that links preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.\n→ Coming soon: flagship white paper, June 2026."
+    "text": "Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Building a unified framework that links preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.\nConcurrently a PhD candidate in Computer Science (Medical Informatics track) at National Cheng Kung University."
+  },
+  {
+    "objectID": "index.html#selected-recent-work",
+    "href": "index.html#selected-recent-work",
+    "title": "Shih-Feng (Fredric) Huang, MD",
+    "section": "Selected recent work",
+    "text": "Selected recent work\n\nA fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. Int J CARS. 2026. doi\nTechnical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. Int J Colorectal Dis. 2026. doi\nMachine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. J Robotic Surg. 2026. doi\n\nSee Research for the full framework, or Publications for the complete list.\n→ Flagship white paper coming June 2026."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Full list maintained at ORCID 0000-0002-8037-4074.\n(BibTeX-driven list coming soon.)"
+    "text": "13 peer-reviewed articles since 2021. First author on 10, senior author on 2. Full record at ORCID 0000-0002-8037-4074."
+  },
+  {
+    "objectID": "publications.html#robotic-colorectal-surgery-2024present",
+    "href": "publications.html#robotic-colorectal-surgery-2024present",
+    "title": "Publications",
+    "section": "Robotic colorectal surgery (2024–present)",
+    "text": "Robotic colorectal surgery (2024–present)\nCore program on Robotic Colorectal Surgical Intelligence (RCSI): preoperative planning, intraoperative proficiency, and postoperative outcomes.\n\nHuang SF, Tseng HP, Hsu CW. [First author]\nA fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. International Journal of Computer Assisted Radiology and Surgery. 2026. doi: 10.1007/s11548-026-03606-2\nHuang SF, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. [First author]\nTechnical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. International Journal of Colorectal Disease. 2026;41(1). doi: 10.1007/s00384-025-05078-3\nHuang SF, Tan YL, Hsu CW, Wu CC. [First author]\nMachine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. Journal of Robotic Surgery. 2026;20(1). doi: 10.1007/s11701-025-03088-5\nLin CL, Chiang SW, Huang SF, Hung CY, Chiang FF.\nRedo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. Diseases of the Colon & Rectum. 2025;68(9):e1777-e1777. doi: 10.1097/dcr.0000000000003646\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Senior author]\nThe robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. Annals of Coloproctology. 2025;41(4):357-360. doi: 10.3393/ac.2025.00486.0069\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Senior author]\nRobotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. Journal of Robotic Surgery. 2025;19(1). doi: 10.1007/s11701-025-02609-6\nHuang SF, Wu CC. [First author]\nRobotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. Colorectal Disease. 2024;26(12):2128-2129. doi: 10.1111/codi.17211"
+  },
+  {
+    "objectID": "publications.html#earlier-work-20212022",
+    "href": "publications.html#earlier-work-20212022",
+    "title": "Publications",
+    "section": "Earlier work (2021–2022)",
+    "text": "Earlier work (2021–2022)\nCase reports, technical notes, and video vignettes from residency and early attending years.\n\nHuang SF, Tsai CC. [First author]\nHepatocellular Carcinoma with Hepatic Duct Tumor Thrombus. Indian Journal of Surgery. 2022;84(S2):434-435. doi: 10.1007/s12262-021-03240-z\nHuang SF, Chiang CL, Lee MH. [First author]\nSuture granuloma mimicking local recurrence of colon cancer after open right hemicolectomy: a case report. Surgical Case Reports. 2021;7(1). doi: 10.1186/s40792-021-01251-2\nHuang SF, Chu PT, Wang JH. [First author]\nA feasible technique for laparoscopic sigmoidectomy with natural orifice specimen extraction (NOSE)—a Video Vignette. Techniques in Coloproctology. 2021;26(2):151-152. doi: 10.1007/s10151-021-02511-x\nHuang SF, Liu WC. [First author]\nA rare case of primary cutaneous diffuse large B-cell lymphoma, leg type, presenting as cellulitis: a case report. Journal of Surgical Case Reports. 2021;2021(6). doi: 10.1093/jscr/rjab227\nHuang SF, Wen CY, Liao CI, Lin JC, Tsai CC. [First author]\nLeiomyomatosis peritonealis disseminata mimicking peritoneal carcinomatosis 13 years after laparoscopic uterine myomectomy: a case report. International Journal of Surgery Case Reports. 2021;81(C):105745. doi: 10.1016/j.ijscr.2021.105745\nHuang SF, Hsu CW. [First author]\nA novel training model to simulate thread traction in colorectal endoscopic submucosal dissection – a video vignette. Colorectal Disease. 2021;23(4):1012-1012. doi: 10.1111/codi.15524"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Three connected axes:\n\nPlanning — CT pelvimetry, anatomical risk stratification\nProficiency — RA-CUSUM, machine learning learning curves\nOutcomes — Functional, oncologic, patient-reported"
+    "text": "A unified framework linking what we plan before surgery, what we do during surgery, and what happens to the patient afterward. Built around robotic total mesorectal excision (TME) and left-sided colorectal resection."
+  },
+  {
+    "objectID": "research.html#planning",
+    "href": "research.html#planning",
+    "title": "Research",
+    "section": "1. Planning",
+    "text": "1. Planning\nAnatomical risk stratification from preoperative imaging. Automated CT-based pelvimetry quantifies the mid-pelvic surgical workspace before the patient enters the operating room.\n\nA fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. Int J CARS. 2026. doi\n\nOpen-source: ctpelvimetry · GitHub · Demo"
+  },
+  {
+    "objectID": "research.html#proficiency",
+    "href": "research.html#proficiency",
+    "title": "Research",
+    "section": "2. Proficiency",
+    "text": "2. Proficiency\nQuantitative assessment of robotic technical skill. Video-based risk-adjusted CUSUM and machine learning models replace conventional case-count thresholds for learning curve evaluation.\n\nTechnical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. Int J Colorectal Dis. 2026. doi\nMachine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. J Robotic Surg. 2026. doi\nRobotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. J Robotic Surg. 2025. doi"
+  },
+  {
+    "objectID": "research.html#technique-outcomes",
+    "href": "research.html#technique-outcomes",
+    "title": "Research",
+    "section": "3. Technique & Outcomes",
+    "text": "3. Technique & Outcomes\nNovel intracorporeal anastomotic techniques and their oncologic, functional, and short-term outcomes. The Robotic intracorporeal Single-Stapled Anastomosis (RiSSA) technique reduces stapler firings and bowel manipulation.\n\nThe robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. Ann Coloproctol. 2025. doi\nRobotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. Colorectal Disease. 2024. doi\nRedo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. Diseases of the Colon & Rectum. 2025. doi"
+  },
+  {
+    "objectID": "research.html#tooling",
+    "href": "research.html#tooling",
+    "title": "Research",
+    "section": "Tooling",
+    "text": "Tooling\nAll quantitative work is reproducible. Pipelines run in Python (PyTorch, scikit-learn) on GCP (NVIDIA L4 GPU). Source available on GitHub."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon. Da Vinci certified. Surgical data scientist working at the intersection of robotic surgery, Python, and deep learning."
+    "text": "Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of robotic surgery, computer vision, and machine learning."
+  },
+  {
+    "objectID": "about.html#position",
+    "href": "about.html#position",
+    "title": "About",
+    "section": "Position",
+    "text": "Position\nAttending Surgeon, Division of Colorectal Surgery, Department of Surgery\nKaohsiung Veterans General Hospital, Taiwan (2019–present)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPhD, Computer Science (Medical Informatics) — National Cheng Kung University (2026–present)\nMD — National Defense Medical Center (2010–2017)"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\nda Vinci Surgical System (Intuitive Surgical) — certified console surgeon\nPython Certified Entry-Level Programmer (PCEP)\nGoogle Advanced Data Analytics Professional Certificate\nDataCamp Data Scientist Professional"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\nRobotic total mesorectal excision · CT pelvimetry · Risk-adjusted CUSUM · Surgical phase recognition · Surgical Difficulty Index (SDI) · Anastomotic leak prediction · Machine learning learning curves"
+  },
+  {
+    "objectID": "about.html#open-source",
+    "href": "about.html#open-source",
+    "title": "About",
+    "section": "Open source",
+    "text": "Open source\n\nctpelvimetry — automated CT-based pelvimetry (PyPI)\ngithub.com/odafeng — clinical research code and tools"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nORCID · GitHub · LinkedIn · shihfenghuang.com"
   }
 ]

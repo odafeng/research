@@ -2,4 +2,34 @@
 title: "About"
 ---
 
-Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon. Da Vinci certified. Surgical data scientist working at the intersection of robotic surgery, Python, and deep learning.
+Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of robotic surgery, computer vision, and machine learning.
+
+## Position
+
+Attending Surgeon, Division of Colorectal Surgery, Department of Surgery  
+Kaohsiung Veterans General Hospital, Taiwan (2019–present)
+
+## Education
+
+**PhD, Computer Science (Medical Informatics)** — National Cheng Kung University (2026–present)  
+**MD** — National Defense Medical Center (2010–2017)
+
+## Certifications
+
+- da Vinci Surgical System (Intuitive Surgical) — certified console surgeon
+- Python Certified Entry-Level Programmer (PCEP)
+- Google Advanced Data Analytics Professional Certificate
+- DataCamp Data Scientist Professional
+
+## Research interests
+
+Robotic total mesorectal excision · CT pelvimetry · Risk-adjusted CUSUM · Surgical phase recognition · Surgical Difficulty Index (SDI) · Anastomotic leak prediction · Machine learning learning curves
+
+## Open source
+
+- [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) — automated CT-based pelvimetry (PyPI)
+- [github.com/odafeng](https://github.com/odafeng) — clinical research code and tools
+
+## Contact
+
+[ORCID](https://orcid.org/0000-0002-8037-4074) · [GitHub](https://github.com/odafeng) · [LinkedIn](https://www.linkedin.com/in/fredrichuang/) · [shihfenghuang.com](https://shihfenghuang.com)

@@ -1,7 +1,53 @@
 ---
 title: "Publications"
+description: "Peer-reviewed publications. Names in bold indicate authorship."
 ---
 
-Full list maintained at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
+13 peer-reviewed articles since 2021. First author on 10, senior author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
 
-(BibTeX-driven list coming soon.)
+## Robotic colorectal surgery (2024–present)
+
+Core program on Robotic Colorectal Surgical Intelligence (RCSI): preoperative planning, intraoperative proficiency, and postoperative outcomes.
+
+1. **Huang SF**, Tseng HP, Hsu CW. <small>[First author]</small>  
+   A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *International Journal of Computer Assisted Radiology and Surgery*. 2026. doi: [10.1007/s11548-026-03606-2](https://doi.org/10.1007/s11548-026-03606-2)
+
+2. **Huang SF**, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. <small>[First author]</small>  
+   Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. *International Journal of Colorectal Disease*. 2026;41(1). doi: [10.1007/s00384-025-05078-3](https://doi.org/10.1007/s00384-025-05078-3)
+
+3. **Huang SF**, Tan YL, Hsu CW, Wu CC. <small>[First author]</small>  
+   Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. *Journal of Robotic Surgery*. 2026;20(1). doi: [10.1007/s11701-025-03088-5](https://doi.org/10.1007/s11701-025-03088-5)
+
+4. Lin CL, Chiang SW, **Huang SF**, Hung CY, Chiang FF.  
+   Redo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. *Diseases of the Colon & Rectum*. 2025;68(9):e1777-e1777. doi: [10.1097/dcr.0000000000003646](https://doi.org/10.1097/dcr.0000000000003646)
+
+5. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Senior author]</small>  
+   The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. *Annals of Coloproctology*. 2025;41(4):357-360. doi: [10.3393/ac.2025.00486.0069](https://doi.org/10.3393/ac.2025.00486.0069)
+
+6. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Senior author]</small>  
+   Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. *Journal of Robotic Surgery*. 2025;19(1). doi: [10.1007/s11701-025-02609-6](https://doi.org/10.1007/s11701-025-02609-6)
+
+7. **Huang SF**, Wu CC. <small>[First author]</small>  
+   Robotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. *Colorectal Disease*. 2024;26(12):2128-2129. doi: [10.1111/codi.17211](https://doi.org/10.1111/codi.17211)
+
+## Earlier work (2021–2022)
+
+Case reports, technical notes, and video vignettes from residency and early attending years.
+
+1. **Huang SF**, Tsai CC. <small>[First author]</small>  
+   Hepatocellular Carcinoma with Hepatic Duct Tumor Thrombus. *Indian Journal of Surgery*. 2022;84(S2):434-435. doi: [10.1007/s12262-021-03240-z](https://doi.org/10.1007/s12262-021-03240-z)
+
+2. **Huang SF**, Chiang CL, Lee MH. <small>[First author]</small>  
+   Suture granuloma mimicking local recurrence of colon cancer after open right hemicolectomy: a case report. *Surgical Case Reports*. 2021;7(1). doi: [10.1186/s40792-021-01251-2](https://doi.org/10.1186/s40792-021-01251-2)
+
+3. **Huang SF**, Chu PT, Wang JH. <small>[First author]</small>  
+   A feasible technique for laparoscopic sigmoidectomy with natural orifice specimen extraction (NOSE)—a Video Vignette. *Techniques in Coloproctology*. 2021;26(2):151-152. doi: [10.1007/s10151-021-02511-x](https://doi.org/10.1007/s10151-021-02511-x)
+
+4. **Huang SF**, Liu WC. <small>[First author]</small>  
+   A rare case of primary cutaneous diffuse large B-cell lymphoma, leg type, presenting as cellulitis: a case report. *Journal of Surgical Case Reports*. 2021;2021(6). doi: [10.1093/jscr/rjab227](https://doi.org/10.1093/jscr/rjab227)
+
+5. **Huang SF**, Wen CY, Liao CI, Lin JC, Tsai CC. <small>[First author]</small>  
+   Leiomyomatosis peritonealis disseminata mimicking peritoneal carcinomatosis 13 years after laparoscopic uterine myomectomy: a case report. *International Journal of Surgery Case Reports*. 2021;81(C):105745. doi: [10.1016/j.ijscr.2021.105745](https://doi.org/10.1016/j.ijscr.2021.105745)
+
+6. **Huang SF**, Hsu CW. <small>[First author]</small>  
+   A novel training model to simulate thread traction in colorectal endoscopic submucosal dissection – a video vignette. *Colorectal Disease*. 2021;23(4):1012-1012. doi: [10.1111/codi.15524](https://doi.org/10.1111/codi.15524)
