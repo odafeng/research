@@ -9,6 +9,10 @@ website:
   description: "Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes"
   site-url: https://research.shihfenghuang.com
   favicon: assets/favicon.png
+  image: assets/favicon-512.png
+  open-graph: true
+  twitter-card:
+    card-style: summary
   navbar:
     logo: assets/logo-nav.png
     logo-alt: "Colon & Code_ brand mark"
