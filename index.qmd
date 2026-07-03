@@ -18,7 +18,7 @@ A unified framework linking preoperative planning, intraoperative proficiency, a
 :::
 
 ::: {.hero-links}
-[ORCID](https://orcid.org/0000-0002-8037-4074) · [Publications](publications.qmd) · [About](about.qmd)
+[ORCID](https://orcid.org/0000-0002-8037-4074) · [Email](mailto:drfredrichuang@gmail.com) · [Publications](publications.qmd) · [About](about.qmd)
 :::
 
 :::
