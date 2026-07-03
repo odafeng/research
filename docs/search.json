@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of robotic surgery, computer vision, and machine learning."
+    "text": "Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of minimally invasive colorectal surgery, computer vision, and machine learning."
   },
   {
     "objectID": "about.html#position",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Shih-Feng (Fredric) Huang, MD",
     "section": "",
-    "text": "Robotic Colorectal Surgical Intelligence\n\n\n\n\nA unified framework linking preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.\n\n\nORCID · Email · Publications · About\nAttending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Concurrently a PhD candidate in Computer Science (Medical Informatics track) at National Cheng Kung University.\nResearch lives at the intersection of robotic total mesorectal excision, machine learning, and surgical video analysis. The goal: turn the implicit judgments of an experienced surgeon into measurable, reproducible quantities."
+    "text": "Colorectal Surgical Intelligence\n\n\n\n\nA unified framework linking preoperative planning, intraoperative proficiency, and postoperative outcomes in robotic colorectal surgery.\n\n\nORCID · Email · Publications · About\nAttending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Concurrently a PhD student in Computer Science (Medical Informatics track) at National Cheng Kung University.\nResearch lives at the intersection of minimally invasive colorectal surgery, machine learning, and surgical video analysis. The goal: turn the implicit judgments of an experienced surgeon into measurable, reproducible quantities."
   },
   {
     "objectID": "index.html#selected-recent-work",
@@ -102,14 +102,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "13 peer-reviewed articles since 2021. First author on 10, senior author on 2. Full record at ORCID 0000-0002-8037-4074."
+    "text": "13 peer-reviewed articles since 2021. First author on 10, corresponding author on 2. Full record at ORCID 0000-0002-8037-4074."
   },
   {
     "objectID": "publications.html#robotic-colorectal-surgery-2024present",
     "href": "publications.html#robotic-colorectal-surgery-2024present",
     "title": "Publications",
     "section": "Robotic colorectal surgery (2024–present)",
-    "text": "Robotic colorectal surgery (2024–present)\nCore program on Robotic Colorectal Surgical Intelligence (RCSI): preoperative planning, intraoperative proficiency, and postoperative outcomes.\n\nHuang SF, Tseng HP, Hsu CW. [First author]\nA fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. International Journal of Computer Assisted Radiology and Surgery. 2026. doi: 10.1007/s11548-026-03606-2\nHuang SF, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. [First author]\nTechnical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. International Journal of Colorectal Disease. 2026;41(1). doi: 10.1007/s00384-025-05078-3\nHuang SF, Tan YL, Hsu CW, Wu CC. [First author]\nMachine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. Journal of Robotic Surgery. 2026;20(1). doi: 10.1007/s11701-025-03088-5\nLin CL, Chiang SW, Huang SF, Hung CY, Chiang FF.\nRedo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. Diseases of the Colon & Rectum. 2025;68(9):e1777-e1777. doi: 10.1097/dcr.0000000000003646\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Senior author]\nThe robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. Annals of Coloproctology. 2025;41(4):357-360. doi: 10.3393/ac.2025.00486.0069\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Senior author]\nRobotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. Journal of Robotic Surgery. 2025;19(1). doi: 10.1007/s11701-025-02609-6\nHuang SF, Wu CC. [First author]\nRobotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. Colorectal Disease. 2024;26(12):2128-2129. doi: 10.1111/codi.17211"
+    "text": "Robotic colorectal surgery (2024–present)\nCore program on colorectal surgical intelligence: preoperative planning, intraoperative proficiency, and postoperative outcomes.\n\nHuang SF, Tseng HP, Hsu CW. [First author]\nA fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. International Journal of Computer Assisted Radiology and Surgery. 2026. doi: 10.1007/s11548-026-03606-2\nHuang SF, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. [First author]\nTechnical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. International Journal of Colorectal Disease. 2026;41(1). doi: 10.1007/s00384-025-05078-3\nHuang SF, Tan YL, Hsu CW, Wu CC. [First author]\nMachine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. Journal of Robotic Surgery. 2026;20(1). doi: 10.1007/s11701-025-03088-5\nLin CL, Chiang SW, Huang SF, Hung CY, Chiang FF.\nRedo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. Diseases of the Colon & Rectum. 2025;68(9):e1777-e1777. doi: 10.1097/dcr.0000000000003646\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Corresponding author]\nThe robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. Annals of Coloproctology. 2025;41(4):357-360. doi: 10.3393/ac.2025.00486.0069\nWu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, Huang SF. [Corresponding author]\nRobotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. Journal of Robotic Surgery. 2025;19(1). doi: 10.1007/s11701-025-02609-6\nHuang SF, Wu CC. [First author]\nRobotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. Colorectal Disease. 2024;26(12):2128-2129. doi: 10.1111/codi.17211"
   },
   {
     "objectID": "publications.html#earlier-work-20212022",

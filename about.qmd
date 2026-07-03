@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of robotic surgery, computer vision, and machine learning.
+Shih-Feng (Fredric) Huang, MD. Attending Colorectal Surgeon and surgical data scientist working at the intersection of minimally invasive colorectal surgery, computer vision, and machine learning.
 
 ## Position
 

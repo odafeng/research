@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Shih-Feng Huang, MD"
-  description: "Robotic Colorectal Surgical Intelligence: planning, proficiency, and outcomes"
+  description: "Colorectal surgical intelligence: planning, proficiency, and outcomes"
   site-url: https://research.shihfenghuang.com
   favicon: assets/favicon.png
   image: assets/favicon-512.png

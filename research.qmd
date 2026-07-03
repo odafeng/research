@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Three connected axes of Robotic Colorectal Surgical Intelligence (RCSI)."
+description: "Three connected axes of colorectal surgical intelligence."
 ---
 
 A unified framework linking what we plan before surgery, what we do during surgery, and what happens to the patient afterward. Built around robotic total mesorectal excision (TME) and left-sided colorectal resection.

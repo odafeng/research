@@ -1,14 +1,14 @@
 ---
 title: ""
 pagetitle: "Shih-Feng (Fredric) Huang, MD"
-description: "Shih-Feng (Fredric) Huang, MD — attending colorectal surgeon and CS PhD candidate. Robotic Colorectal Surgical Intelligence: preoperative planning, intraoperative proficiency, postoperative outcomes."
+description: "Shih-Feng (Fredric) Huang, MD — attending colorectal surgeon and CS PhD student. Colorectal surgical intelligence: preoperative planning, intraoperative proficiency, postoperative outcomes."
 toc: false
 ---
 
 ::: {.hero-section}
 
 ::: {.hero-kicker}
-Robotic Colorectal Surgical Intelligence
+Colorectal Surgical Intelligence
 :::
 
 # Shih-Feng (Fredric) Huang, MD
@@ -23,9 +23,9 @@ A unified framework linking preoperative planning, intraoperative proficiency, a
 
 :::
 
-Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Concurrently a PhD candidate in Computer Science (Medical Informatics track) at National Cheng Kung University.
+Attending Colorectal Surgeon at Kaohsiung Veterans General Hospital. Concurrently a PhD student in Computer Science (Medical Informatics track) at National Cheng Kung University.
 
-Research lives at the intersection of robotic total mesorectal excision, machine learning, and surgical video analysis. The goal: turn the implicit judgments of an experienced surgeon into measurable, reproducible quantities.
+Research lives at the intersection of minimally invasive colorectal surgery, machine learning, and surgical video analysis. The goal: turn the implicit judgments of an experienced surgeon into measurable, reproducible quantities.
 
 ## Selected recent work
 

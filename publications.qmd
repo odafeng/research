@@ -3,11 +3,11 @@ title: "Publications"
 description: "Peer-reviewed publications. Names in bold indicate authorship."
 ---
 
-13 peer-reviewed articles since 2021. First author on 10, senior author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
+13 peer-reviewed articles since 2021. First author on 10, corresponding author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
 
 ## Robotic colorectal surgery (2024–present)
 
-Core program on Robotic Colorectal Surgical Intelligence (RCSI): preoperative planning, intraoperative proficiency, and postoperative outcomes.
+Core program on colorectal surgical intelligence: preoperative planning, intraoperative proficiency, and postoperative outcomes.
 
 1. **Huang SF**, Tseng HP, Hsu CW. <small>[First author]</small>  
    A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *International Journal of Computer Assisted Radiology and Surgery*. 2026. doi: [10.1007/s11548-026-03606-2](https://doi.org/10.1007/s11548-026-03606-2)
@@ -21,10 +21,10 @@ Core program on Robotic Colorectal Surgical Intelligence (RCSI): preoperative pl
 4. Lin CL, Chiang SW, **Huang SF**, Hung CY, Chiang FF.  
    Redo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. *Diseases of the Colon & Rectum*. 2025;68(9):e1777-e1777. doi: [10.1097/dcr.0000000000003646](https://doi.org/10.1097/dcr.0000000000003646)
 
-5. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Senior author]</small>  
+5. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
    The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. *Annals of Coloproctology*. 2025;41(4):357-360. doi: [10.3393/ac.2025.00486.0069](https://doi.org/10.3393/ac.2025.00486.0069)
 
-6. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Senior author]</small>  
+6. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
    Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. *Journal of Robotic Surgery*. 2025;19(1). doi: [10.1007/s11701-025-02609-6](https://doi.org/10.1007/s11701-025-02609-6)
 
 7. **Huang SF**, Wu CC. <small>[First author]</small>  
