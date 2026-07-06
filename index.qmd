@@ -38,4 +38,4 @@ Research lives at the intersection of minimally invasive colorectal surgery, mac
   [*Journal of Robotic Surgery* · 2026 · [doi:10.1007/s11701-025-03088-5](https://doi.org/10.1007/s11701-025-03088-5)]{.pub-meta}
 :::
 
-13 peer-reviewed articles since 2021 — first author on 10. See [Research](research.qmd) for the full framework, or [Publications](publications.qmd) for the complete list.
+14 peer-reviewed articles since 2021 — first author on 11. See [Research](research.qmd) for the full framework, or [Publications](publications.qmd) for the complete list.

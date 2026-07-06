@@ -3,7 +3,7 @@ title: "Publications"
 description: "Peer-reviewed publications. Names in bold indicate authorship."
 ---
 
-13 peer-reviewed articles since 2021. First author on 10, corresponding author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
+14 peer-reviewed articles since 2021. First author on 11, corresponding author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
 
 ## Robotic colorectal surgery (2024–present)
 
@@ -29,6 +29,13 @@ Core program on colorectal surgical intelligence: preoperative planning, intraop
 
 7. **Huang SF**, Wu CC. <small>[First author]</small>  
    Robotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. *Colorectal Disease*. 2024;26(12):2128-2129. doi: [10.1111/codi.17211](https://doi.org/10.1111/codi.17211)
+
+## Colorectal oncology & outcomes (2026)
+
+Real-world comparative effectiveness and survival analysis in colorectal cancer.
+
+1. **Huang SF**, Hsu CW, Wu CC, Chen YH. <small>[First author]</small>
+   Comparative effectiveness of oral fluoropyrimidines versus FOLFOX as adjuvant therapy for stage III colon cancer: a retrospective cohort study using overlap-weighted restricted mean survival time analysis. *Pharmacoepidemiology and Drug Safety*. 2026;35(7). doi: [10.1002/pds.70427](https://doi.org/10.1002/pds.70427)
 
 ## Earlier work (2021–2022)
 
