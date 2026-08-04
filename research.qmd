@@ -9,6 +9,7 @@ A unified framework linking what we plan before surgery, what we do during surge
 
 Anatomical risk stratification from preoperative imaging. Automated CT-based pelvimetry quantifies the mid-pelvic surgical workspace before the patient enters the operating room.
 
+   - A scalable, annotation-free pipeline for automated CT pelvimetry: a validation study with landmark uncertainty analysis and clinical correlation. *J Imaging Inform Med*. 2026. [doi](https://doi.org/10.1007/s10278-026-02167-9)
    - A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *Int J CARS*. 2026. [doi](https://doi.org/10.1007/s11548-026-03606-2)
 
 Open-source: [`ctpelvimetry`](https://pypi.org/project/ctpelvimetry/) · [GitHub](https://github.com/odafeng/Auto_ISD_Pelvimetry) · [Demo](https://auto-isd-demo.vercel.app)

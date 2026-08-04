@@ -30,12 +30,12 @@ Research lives at the intersection of minimally invasive colorectal surgery, mac
 ## Selected recent work
 
 ::: {.home-pubs}
+- **A scalable, annotation-free pipeline for automated CT pelvimetry: a validation study with landmark uncertainty analysis and clinical correlation.**
+  [*Journal of Imaging Informatics in Medicine* · 2026 · [doi:10.1007/s10278-026-02167-9](https://doi.org/10.1007/s10278-026-02167-9)]{.pub-meta}
 - **A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer.**
   [*International Journal of Computer Assisted Radiology and Surgery* · 2026 · [doi:10.1007/s11548-026-03606-2](https://doi.org/10.1007/s11548-026-03606-2)]{.pub-meta}
 - **Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM.**
   [*International Journal of Colorectal Disease* · 2026 · [doi:10.1007/s00384-025-05078-3](https://doi.org/10.1007/s00384-025-05078-3)]{.pub-meta}
-- **Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery.**
-  [*Journal of Robotic Surgery* · 2026 · [doi:10.1007/s11701-025-03088-5](https://doi.org/10.1007/s11701-025-03088-5)]{.pub-meta}
 :::
 
-14 peer-reviewed articles since 2021 — first author on 11. See [Research](research.qmd) for the full framework, or [Publications](publications.qmd) for the complete list.
+15 peer-reviewed articles since 2021 — first author on 12. See [Research](research.qmd) for the full framework, or [Publications](publications.qmd) for the complete list.

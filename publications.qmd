@@ -3,31 +3,34 @@ title: "Publications"
 description: "Peer-reviewed publications. Names in bold indicate authorship."
 ---
 
-14 peer-reviewed articles since 2021. First author on 11, corresponding author on 2. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
+15 peer-reviewed articles since 2021. First author on 12, corresponding author on 3. Full record at [ORCID 0000-0002-8037-4074](https://orcid.org/0000-0002-8037-4074).
 
 ## Robotic colorectal surgery (2024–present)
 
 Core program on colorectal surgical intelligence: preoperative planning, intraoperative proficiency, and postoperative outcomes.
 
-1. **Huang SF**, Tseng HP, Hsu CW. <small>[First author]</small>  
+1. **Huang SF**, Tseng HP, Chen YH, Tan YL, Lee JP, Wu CC, Hsu CW. <small>[First & corresponding author]</small>  
+   A scalable, annotation-free pipeline for automated CT pelvimetry: a validation study with landmark uncertainty analysis and clinical correlation. *Journal of Imaging Informatics in Medicine*. 2026. doi: [10.1007/s10278-026-02167-9](https://doi.org/10.1007/s10278-026-02167-9)
+
+2. **Huang SF**, Tseng HP, Hsu CW. <small>[First author]</small>  
    A fully automated CT-based pelvimetry pipeline for quantifying mid-pelvic surgical workspace in rectal cancer. *International Journal of Computer Assisted Radiology and Surgery*. 2026. doi: [10.1007/s11548-026-03606-2](https://doi.org/10.1007/s11548-026-03606-2)
 
-2. **Huang SF**, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. <small>[First author]</small>  
+3. **Huang SF**, Tan YL, Hsu CW, Tseng HP, Miskovic D, Wu CC. <small>[First author]</small>  
    Technical proficiency assessment of robotic intracorporeal single-stapling colorectal anastomosis using video-based RA-CUSUM. *International Journal of Colorectal Disease*. 2026;41(1). doi: [10.1007/s00384-025-05078-3](https://doi.org/10.1007/s00384-025-05078-3)
 
-3. **Huang SF**, Tan YL, Hsu CW, Wu CC. <small>[First author]</small>  
+4. **Huang SF**, Tan YL, Hsu CW, Wu CC. <small>[First author]</small>  
    Machine learning–based risk modeling for safety-focused learning curve assessment in robotic left-sided colorectal cancer surgery. *Journal of Robotic Surgery*. 2026;20(1). doi: [10.1007/s11701-025-03088-5](https://doi.org/10.1007/s11701-025-03088-5)
 
-4. Lin CL, Chiang SW, **Huang SF**, Hung CY, Chiang FF.  
+5. Lin CL, Chiang SW, **Huang SF**, Hung CY, Chiang FF.  
    Redo Robotic Low Anterior Resection by Natural Orifice Intracorporeal Anastomosis With Extraction. *Diseases of the Colon & Rectum*. 2025;68(9):e1777-e1777. doi: [10.1097/dcr.0000000000003646](https://doi.org/10.1097/dcr.0000000000003646)
 
-5. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
+6. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
    The robotic intracorporeal single-stapled anastomosis (RiSSA) technique in robotic left-sided colorectal resection: a technical note. *Annals of Coloproctology*. 2025;41(4):357-360. doi: [10.3393/ac.2025.00486.0069](https://doi.org/10.3393/ac.2025.00486.0069)
 
-6. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
+7. Wu CC, Tan YL, Hsu CW, Tseng HP, Miskovic D, **Huang SF**. <small>[Corresponding author]</small>  
    Robotic intracorporeal single-stapling versus double-stapling anastomosis in left-sided colorectal cancer: a propensity score-weighted pilot study. *Journal of Robotic Surgery*. 2025;19(1). doi: [10.1007/s11701-025-02609-6](https://doi.org/10.1007/s11701-025-02609-6)
 
-7. **Huang SF**, Wu CC. <small>[First author]</small>  
+8. **Huang SF**, Wu CC. <small>[First author]</small>  
    Robotic intracorporeal single‐stapled anastomosis (RiSSA) and natural orifice specimen extraction (NOSE) in total mesorectal excision for rectal cancer—A video vignette. *Colorectal Disease*. 2024;26(12):2128-2129. doi: [10.1111/codi.17211](https://doi.org/10.1111/codi.17211)
 
 ## Colorectal oncology & outcomes (2026)
