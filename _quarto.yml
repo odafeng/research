@@ -41,6 +41,7 @@ website:
 
 format:
   html:
+    include-in-header: includes/analytics.html
     theme:
       - cosmo
       - theme.scss
